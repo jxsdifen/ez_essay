@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Microsoft YaHei;
+    font-size: 14px;
+    -webkit-font-smoothing: antialiased;
+}
+
+.ez-color-blue{ color: #3192f0;}
+.ez-color-red{ color: #dc4826;}
+.ez-color-red2{ color: #ef1c25;}
+.ez-color-green{ color: #83cf13;}
+.ez-color-green2{ color: #1db934;}
+
+.ez-font-b{ font-weight: bold;}
+.ez-font-16{ font-size: 16px;}
+.ez-font-14{ font-size: 14px;}
+.ez-font-12{ font-size: 12px;}
+
+.ez-icon{width: 18px;height: 18px;}
